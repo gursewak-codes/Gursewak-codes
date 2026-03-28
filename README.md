@@ -83,13 +83,13 @@
 <h2 align="center">📬 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://github.com/gursewak-codes">
+  <a href="https://github.com/gursewak-codes" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/gursewak-singh-a0280a351">
+  <a href="https://www.linkedin.com/in/gursewak-singh-a0280a351"  target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/Gursewak__22">
+  <a href="https://x.com/Gursewak__22" target="_blank">
     <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
