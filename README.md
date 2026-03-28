@@ -1,10 +1,10 @@
 <!-- 🌙 Gursewak Singh - Professional GitHub Profile README -->
 
-<h1 align="center">👋 Hey, I'm <span style="color:#00bfff;">Gursewak Singh</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#00bfff;">Gursewak Singh</span></h1>
 
 <p align="center">
-  💻 <b>Aspiring Full Stack Developer</b> | 🎓 <b>B.Tech CSE Student</b><br>
-  🚀 Currently focused on <b>Frontend Development & Data Structures</b>
+  💻 <b>Aspiring Full Stack Developer</b> | JavaScript | MERN Stack (Learning) <br>
+  🚀 Building modern, responsive web applications & strengthening DSA
 </p>
 
 ---
@@ -12,20 +12,20 @@
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <p align="center">
-  Passionate about building scalable and user-friendly web applications.<br>
-  Currently strengthening my foundation in <b>JavaScript, DSA, and modern web technologies</b>.<br>
-  I believe in consistency, problem-solving, and continuous learning.
+  I am a Computer Science student focused on becoming a professional Full Stack Developer.<br>
+  Currently working on <b>Frontend Development</b> and improving problem-solving skills using <b>C++ (DSA)</b>.<br>
+  Passionate about building real-world projects and continuously improving my development skills.
 </p>
 
 ---
 
-<h2 align="center">🌱 What I'm Currently Working On</h2>
+<h2 align="center">🚀 What I'm Working On</h2>
 
 <p align="center">
-  • Frontend Development (HTML, CSS, JavaScript) <br>
-  • Data Structures & Algorithms (C++) <br>
-  • Problem Solving & Logical Thinking <br>
-  • Version Control using Git & GitHub
+  • Building responsive websites using <b>HTML, CSS, JavaScript</b> <br>
+  • Practicing <b>Data Structures & Algorithms</b> (C++) <br>
+  • Learning <b>Git & GitHub workflows</b> <br>
+  • Preparing for <b>Full Stack Development (MERN)</b>
 </p>
 
 ---
@@ -33,21 +33,21 @@
 <h2 align="center">🧠 Tech Stack</h2>
 
 <p align="center">
-  💻 <b>Languages:</b> C++, Java, HTML5, CSS3, JavaScript (ES6+) <br>
+  💻 <b>Languages:</b> C++, Java, JavaScript (ES6+), HTML5, CSS3 <br>
   🎨 <b>Frontend:</b> Responsive Design, Flexbox, Grid, DOM Manipulation <br>
-  ⚙️ <b>Tools & Technologies:</b> Git, GitHub, VS Code, Git Bash <br>
-  🚀 <b>Learning Next:</b> Node.js, Express.js, REST APIs, MongoDB
+  ⚙️ <b>Tools:</b> Git, GitHub, VS Code, Git Bash <br>
+  🌐 <b>Backend (Learning):</b> Node.js, Express.js, REST APIs <br>
+  🗄️ <b>Database (Learning):</b> MongoDB
 </p>
 
 ---
 
-<h2 align="center">🎯 Goals</h2>
+<h2 align="center">💼 Projects</h2>
 
 <p align="center">
-  🚀 Build real-world full stack projects <br>
-  📂 Contribute to open source projects <br>
-  💼 Secure internships as a developer <br>
-  🌍 Grow into a professional Full Stack Engineer
+  🔹 Frontend Projects (HTML, CSS, JavaScript) <br>
+  🔹 Login Form UI <br>
+  🚀 More projects with live demos coming soon
 </p>
 
 ---
@@ -62,11 +62,13 @@
 
 ---
 
-<h2 align="center">💼 Projects</h2>
+<h2 align="center">🎯 Goals</h2>
 
 <p align="center">
-  🔗 Actively building frontend projects using HTML, CSS & JavaScript <br>
-  🚀 More projects and live demos coming soon
+  🚀 Build real-world full stack applications <br>
+  📂 Contribute to open source projects <br>
+  💼 Land internships & freelance opportunities <br>
+  🌍 Become a professional Full Stack Developer
 </p>
 
 ---
@@ -75,7 +77,7 @@
 
 <p align="center">
   <i>"Consistency beats talent when talent doesn’t work hard."</i><br>
-  Focused on improving 1% every day 💪
+  Focused on improving every single day 💪
 </p>
 
 ---
@@ -83,14 +85,14 @@
 <h2 align="center">📬 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://github.com/gursewak-codes" target="_blank">
+  <a href="https://github.com/gursewak-codes">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/gursewak-singh-a0280a351"  target="_blank">
+  <a href="https://www.linkedin.com/in/gursewak-singh-a0280a351">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/Gursewak__22" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://x.com/Gursewak__22">
+    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
